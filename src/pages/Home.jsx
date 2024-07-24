@@ -21,7 +21,7 @@ const Home = () => {
       {/* Main Content */}
       <section className="relative z-20 p-6 md:p-12 text-center">
         <img
-          src="/src/assets/logo.jpg"
+          src="/images/logo.jpg"
           alt="Springdale Public School Logo"
           className="w-36 h-36 mx-auto my-6 rounded-full shadow-lg"
           loading="lazy"

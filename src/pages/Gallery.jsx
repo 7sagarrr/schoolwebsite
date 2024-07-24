@@ -12,31 +12,31 @@ const Gallery = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
             {[
               {
-                src: "/src/assets/sportsday.jpg",
+                src: "/images/sportsday.jpg",
                 alt: "Sports Day",
                 title: "Sports Day",
                 description: "Students participating in various sports events.",
               },
               {
-                src: "/src/assets/science_exhibition.jpg",
+                src: "/images/science_exhibition.jpg",
                 alt: "Science Exhibition",
                 title: "Science Exhibition",
                 description: "Students presenting their science projects.",
               },
               {
-                src: "/src/assets/cultural_fest.jpg",
+                src: "/images/cultural_fest.jpg",
                 alt: "Cultural Fest",
                 title: "Cultural Fest",
                 description: "Students performing in the cultural fest.",
               },
               {
-                src: "/src/assets/classroom.jpg",
+                src: "/images/classroom.jpg",
                 alt: "Classroom",
                 title: "Classroom",
                 description: "A glimpse of our interactive classrooms.",
               },
               {
-                src: "/src/assets/library.jpg",
+                src: "/images/library.jpg",
                 alt: "Library",
                 title: "Library",
                 description: "Students reading and studying in the school library.",
