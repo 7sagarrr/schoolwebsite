@@ -24,7 +24,7 @@ Navigate to the Project Directory
 
 bash
 Copy code
-cd website
+cd schoolwebsite
 Install Dependencies
 
 bash
