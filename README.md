@@ -19,7 +19,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/7sagarrr/website.git
+git clone https://github.com/7sagarrr/schoolwebsite.git 
 Navigate to the Project Directory
 
 bash
